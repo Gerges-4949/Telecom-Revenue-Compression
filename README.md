@@ -31,10 +31,10 @@ The XGBoost model achieved excellent predictive performance on the test set:
 - **Business ROI:** The model successfully flagged 2,214 customers for intervention. Assuming a 50% success rate, the campaign yields an estimated **$441,464.30** in annual net profit.
 
 ## Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](assets/confusion_matrix.png)
 
 ## Feature Importance
-![SHAP Feature Importance](SHAP_Summary_Plot.png)
+![SHAP Feature Importance](assets/SHAP_Summary_Plot.png)
 
 ## Feature Dictionary
 
